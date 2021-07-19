@@ -1,0 +1,5 @@
+{
+  "editor.formatOnSave": true,
+  "editor.foldingStrategy": "indentation",
+  "prettier.printWidth": 200
+}
